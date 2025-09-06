@@ -1,31 +1,37 @@
-## Sobre mim
+<h1 align="left">Olá! Eu sou Carlos Eduardo;</h1>
 
-- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Estudando Engenharia de Software na Universidade Tecnológica Federal do Paraná.
-- 🌱 Aprendendo mais sobre desenvolvimento backend com Node.js.
+###
 
-## Minhas Skills
+<p align="left"></p>
 
-**Aplicações e dados**
+###
 
-![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![Node](https://img.shields.io/badge/-node-333333?style=flat&logo=node)
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+<p align="left">Sou estudante de Engenharia de Software na UTFPR, fascinado por tecnologia e desenvolvimento. Tenho experiência com JavaScript, HTML e CSS e estou expandindo meus conhecimentos para me tornar um desenvolvedor full stack.<br>Atualmente, estou me aprofundando no back-end, aprimorando minhas habilidades em Node.js e em banco de dados, como o MongoDB, além de estudar APIs e arquitetura de software para desenvolver aplicações mais completas e escaláveis.</p>
 
-**Ferramentas de desenvolvimento**
+###
 
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
-![Canva](https://img.shields.io/badge/-Canva-333333?style=flat&logo=canva&logoColor=00C4CC)
+<h2 align="left">Eu escrevo código usando:</h2>
 
-<br/>
+###
 
-<a href="https://github.com/Carloss0101" title="Perfil do Carlos">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Carloss0101&theme=dracula&show_icons=true" />
-</a>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" alt="trello logo"  />
+</div>
 
-## Onde me encontrar
-
-[![Gmail Badge](https://img.shields.io/badge/-contato.carlosedu1@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:contato.carlosedu1@gmail.com)
+###
